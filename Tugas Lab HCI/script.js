@@ -1,3 +1,0 @@
-let skkas () => {
-  skkas
-}
